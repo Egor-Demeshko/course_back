@@ -1,0 +1,17 @@
+
+/wp-includes
+/wp-admin
+/wp*.php
+/xmlrpc.php
+/.htaccess
+/index.php
+/license.txt
+/readme.html
+
+wp-content/plugins
+/wp-content/languages
+/wp-content/mu-plugins
+/wp-content/index.php
+/wp-content/uploads
+!/wp-content/themes/course_back/*
+
